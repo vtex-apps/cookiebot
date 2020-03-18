@@ -1,28 +1,23 @@
-📢 Use this project, [contribute](https://github.com/vtex-apps/CHANGEME) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
+📢 Use this project, [contribute](https://github.com/vtex-apps/cookiebot) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
 
-# APP NAME
+# Cookiebot
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Under the app's name, you should explain the topic, giving a **brief description** of the **app's functionality** (what is it for?) in a store.
+Cookiebot helps make your use of cookies and online tracking compliant.
 
-Next, you can **add media** (either an image of a GIF) if possible, so that users can better understand how the app works in practice. 
-
-![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png)
+![image](https://user-images.githubusercontent.com/284515/77015180-d92c1100-6952-11ea-97e6-f2b94b900399.png)
 
 ## Configuration
 
-In this section, you first must **add the primary instructions** that will allow users to use the app in their store, such as [installing the app](https://vtex.io/docs/recipes/store/installing-an-app) and configuring it using the account's admin. 
+1. [Install the app](https://vtex.io/docs/recipes/store/installing-an-app)
 
-Remember to also **showcase any necessary disclaimer** related to the app in this section, such as the different behavior it may display during its configuration. 
+2. Add the app settings and add your Domain Groupd ID. You can find yours at the [Cookiebot Manage page](https://manage.cookiebot.com/en/manage).
 
-## Modus Operandi *(not mandatory)*
+![image](https://user-images.githubusercontent.com/284515/77015342-4f307800-6953-11ea-9de4-e840819421fa.png)
 
-There are scenarios in which an app can behave differently in a store, according to its configuration. It's crucial then to go through these **behavioral changes** in this section, allowing users to fully understand the **practical application** of the app in their store.
-
-If you feel compelled to give further details, such as the app's **relationship with others**, don't hesitate to use this section. 
 
 ## Contributors ✨
 
