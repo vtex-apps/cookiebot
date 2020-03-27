@@ -16,7 +16,7 @@ Cookiebot helps make your use of cookies and online tracking compliant.
 
 2. Add the app settings and add your Domain Groupd ID. You can find yours at the [Cookiebot Manage page](https://manage.cookiebot.com/en/manage).
 
-![image](https://user-images.githubusercontent.com/284515/77015342-4f307800-6953-11ea-9de4-e840819421fa.png)
+![Cookiebot Domain ID](https://user-images.githubusercontent.com/284515/77793196-6acd0a00-7048-11ea-9de5-0da4eb1c1917.png)
 
 
 ## Contributors ✨
