@@ -8,7 +8,11 @@
 
 Cookiebot helps make your use of cookies and online tracking compliant.
 
-![image](https://user-images.githubusercontent.com/284515/77015180-d92c1100-6952-11ea-97e6-f2b94b900399.png)
+![Cookie dialog](https://user-images.githubusercontent.com/284515/77015180-d92c1100-6952-11ea-97e6-f2b94b900399.png)
+
+This app also creates the page `/cookie-declaration` with Cookiebot's Cookie declaration:
+
+![Cookie declaration page](https://user-images.githubusercontent.com/284515/78317698-61a4d700-7539-11ea-9429-1a6275be1123.png)
 
 ## Configuration
 
