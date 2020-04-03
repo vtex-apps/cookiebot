@@ -1,7 +1,7 @@
 {
   "name": "cookiebot",
   "vendor": "vtex",
-  "version": "1.0.0",
+  "version": "1.0.1-beta",
   "title": "Cookiebot",
   "description": "",
   "billingOptions": {
