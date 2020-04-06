@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+- Create separate page for Cookies Declaration.
+
+### Changed
+- Blocking mode to manual.
+
+### Fixed
+- App icon.
+
 ## [1.0.0] - 2020-03-27
 
 ### Added
