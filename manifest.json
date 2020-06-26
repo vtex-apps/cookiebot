@@ -3,9 +3,9 @@
   "vendor": "vtex",
   "version": "2.0.1",
   "title": "Cookiebot",
-  "description": "",
+  "description": "With a few clicks configure and preview your own cookie declaration and consent dialog.",
   "billingOptions": {
-    "termsURL": "",
+    "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
     "support": {
       "url": "https://support.vtex.com/hc/requests"
     },
