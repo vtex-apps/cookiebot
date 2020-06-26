@@ -1,28 +1,24 @@
 ## Sobre
+
 O Cookiebot dá vida a três funções principais totalmente automáticas e fáceis de implementar: consentimento, monitoramento e controle de cookies.
 O Cookiebot permite a verdadeira conformidade com as leis de privacidade por meio de troca de dados respeitosa e transparente, com base no consentimento entre os usuários finais e os sites que eles visitam.
 
 ## Funcionalidades
+
 - Varredura e declaração automatizadas de cookies;
-
 - Banner de consentimento de cookies;
-
 - Consentimento em massa para vários domínios;
-
 - Suporte e detecção automática de qualquer idioma;
-
 - Segmentação geográfica em tempo real;
-
 - Estatísticas visuais sobre as escolhas dos visitantes do seu site.
 
 ## Como configurar
+
 1 - Instale o aplicativo da VTEX App Store;
-
 2 - Preencha seu Domain Group ID. Você pode encontrá-lo na página de configurações do Cookiebot: https://manage.cookiebot.com/en/manage;
-
 3 - Salve suas alterações;
-
 4 - Configure e visualize sua declaração de cookie e caixa de diálogo de consentimento na página configurações do Cookiebot.
 
 ## Comentários
+
 - Para utilizar o serviço é preciso ter uma conta ativa do Cookiebot. Algumas funcionalidades só estão disponíveis para planos específicos.
