@@ -14,10 +14,10 @@ Cookiebot permite el verdadero cumplimiento de las leyes de privacidad a través
 
 ## Cómo configurar
 
-1 - Instala la aplicación desde VTEX App Store;
-2 - Complete su Domain Group ID. Puede encontrar el suyo en la página de configuración de Cookiebot: https://manage.cookiebot.com/en/manage;
-3 - Guarde sus cambios;
-4 - Configure y obtenga una vista previa de su declaración de cookies y diálogo de consentimiento en la página de configuración de Cookiebot.
+1. Instala la aplicación desde VTEX App Store;
+2. Complete su Domain Group ID. Puede encontrar el suyo en la página de configuración de Cookiebot: https://manage.cookiebot.com/en/manage;
+3. Guarde sus cambios;
+4. Configure y obtenga una vista previa de su declaración de cookies y diálogo de consentimiento en la página de configuración de Cookiebot.
 
 ## Comentarios
 
