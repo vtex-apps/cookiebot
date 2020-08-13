@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+
+- Add billingOptions type and availableCountries
+
 ## [2.0.3] - 2020-07-01
 ### Fixed
 - Markdown ordered lists on `full_description.txt`
