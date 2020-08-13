@@ -1,7 +1,7 @@
 {
   "name": "cookiebot",
   "vendor": "vtex",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "title": "Cookiebot",
   "description": "With a few clicks configure and preview your own cookie declaration and consent dialog.",
   "billingOptions": {
@@ -11,7 +11,9 @@
     },
     "free": true,
     "type": "free",
-    "availableCountries": ["*"]
+    "availableCountries": [
+      "*"
+    ]
   },
   "builders": {
     "pixel": "0.x",
