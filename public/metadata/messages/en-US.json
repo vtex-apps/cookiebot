@@ -1,0 +1,18 @@
+{
+  "name": "Cookiebot",
+  "headline": "With a few clicks configure and preview your own cookie declaration and consent dialog.",
+  "overview": "Cookiebot brings this vision to life with three, fully automatic core functions that are easy to implement: cookie consent, cookie monitoring and cookie control.\nCookiebot enables true compliance with privacy legislations through respectful and transparent data exchange, based on consent between end-users and the websites they visit.",
+  "features": [
+    "Automated cookie scan and declaration",
+    "Cookie consent banner",
+    "Bulk consent for multiple domains",
+    "Support and auto-detect any language",
+    "Real-time geo targeting",
+    "Visual statistics on the choices of your website visitors"
+  ],
+  "additionalInformation": "To use the service, you must have an active Cookiebot account. Some features are only available for specific plans.",
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}

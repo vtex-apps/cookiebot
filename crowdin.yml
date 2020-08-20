@@ -1,3 +1,9 @@
 files:
   - source: /messages/en.json
     translation: /messages/%two_letters_code%.json
+  - source: '/cookiebot/public/metadata/messages/pt-BR.json'
+    translation: '/cookiebot/public/metadata/messages/%locale%.json'
+    type: 'json'
+  - source: '/cookiebot/public/metadata/licenses/pt-BR.md'
+    translation: '/cookiebot/public/metadata/licenses/%locale%.md'
+    type: 'md'
