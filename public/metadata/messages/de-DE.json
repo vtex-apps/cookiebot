@@ -1,0 +1,18 @@
+{
+  "name": "Cookiebot",
+  "headline": "Com apenas alguns cliques, configure e visualize sua própria declaração de cookie e caixa de diálogo de consentimento.",
+  "overview": "O Cookiebot dá vida a três funções principais totalmente automáticas e fáceis de implementar: consentimento, monitoramento e controle de cookies.\nO Cookiebot permite a verdadeira conformidade com as leis de privacidade por meio de troca de dados respeitosa e transparente, com base no consentimento entre os usuários finais e os sites que eles visitam.",
+  "features": [
+    "Varredura e declaração automatizadas de cookies",
+    "Banner de consentimento de cookies",
+    "Consentimento em massa para vários domínios",
+    "Suporte e detecção automática de qualquer idioma",
+    "Segmentação geográfica em tempo real",
+    "Estatísticas visuais sobre as escolhas dos visitantes do seu site"
+  ],
+  "additionalInformation": "Para utilizar o serviço é preciso ter uma conta ativa do Cookiebot. Algumas funcionalidades só estão disponíveis para planos específicos.",
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}
