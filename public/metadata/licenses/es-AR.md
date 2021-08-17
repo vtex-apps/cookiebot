@@ -48,7 +48,7 @@ Sin perjuicio de las disposiciones de estos Términos, el Usuario debe observar 
 
 “Aplicación de Terceros” significa una aplicación web desarrollada por un tercero, ya sea natural o legal, y disponible en la [VTEX App Store](apps.vtex.com) por un Proveedor de Aplicaciones. La Aplicación de Terceros se pone a disposición de sus Clientes para que la instalen, sin cargo, o mediante el pago de una suscripción mensual o pago por uso, como se presenta en la instalación de la APP o en los Términos de Uso de la APP, como una herramienta de extensión de la Plataforma VTEX.
 
-“Aplicación VTEX” significa una aplicación web desarrollada por VTEX y puesta a disposición de sus Clientes en la [VTEX App Store](apps.vtex.com) para ser instalada, sin cargo, o mediante el pago de una suscripción mensual o pago por uso, como se presenta en la instalación de la APP. o en los Términos de uso de la APP, como una herramienta de extensión de la Plataforma VTEX.
+“Aplicación VTEX” significa una aplicación web desarrollada por VTEX y puesta a disposición de sus Clientes en la [VTEX App Store](apps.vtex.com) para ser instalada, sin cargo, o mediante el pago de una suscripción mensual o pago por uso, como se presenta en la instalación de la APP.
 
 ### 2. OBJETIVO
 
@@ -64,9 +64,11 @@ Sin perjuicio de las disposiciones de estos Términos, el Usuario debe observar 
 
 ### 3. PROTECCIÓN DE DATOS PERSONALES
 
-**El Usuario declara que ha leído las Condiciones de Uso de la APP a la que desea acceder, utilizar o instalar y se ha asegurado de que el desarrollador y Proveedor de la Aplicación de la APP elegida por el Usuario sigue las normas de Protección de Datos Personales. VTEX no es responsable de las aplicaciones de Terceros.**
+El Usuario declara que ha leído las Condiciones de Uso de la APP a la que desea acceder, utilizar o instalar y se ha asegurado de que el desarrollador y Proveedor de la Aplicación de la APP elegida por el Usuario sigue las normas de Protección de Datos Personales. VTEX no es responsable de las aplicaciones de Terceros.
 
 3.1. VTEX llevará a cabo el Tratamiento de los Datos Personales disponibles en la VTEX App Store de acuerdo con las Leyes de Protección de Datos aplicables. Se considera que todos los empleados y empleados de VTEX con acceso a Datos personales están obligados por escrito a mantener la confidencialidad de dichos Datos Personales.
+
+
 
 3.2. El Usuario declara que ha leído, conoce y acepta las disposiciones de la Política de Privacidad de VTEX, la cual es parte integral de estos Términos, tal como se dispone en su totalidad en el siguiente enlace: [https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy](https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy).
 
@@ -120,7 +122,7 @@ j.  No realizar ni fomentar actividades ilícitas, incluyendo, pero no limitado 
 
 k.  Cumplir con todas las leyes, reglas, reglas, principios y regulaciones aplicables;
 
-l.  Utilice la APP solo para el propósito expresamente previsto en estos Términos.
+l. Utilice la APP solo para el propósito expresamente previsto en estos Términos.
 
 ### 7. DISPONIBILIDAD DE LA APP
 
@@ -136,7 +138,7 @@ l.  Utilice la APP solo para el propósito expresamente previsto en estos Térmi
 
 8.2. A modo de ejemplo, VTEX no será responsable de:
 
-8.2.1. Errores y/o interrupciones en el uso de la APP y sus Servicios, así como el correcto funcionamiento de sus módulos e integraciones.
+8.2.1.  Errores y/o interrupciones en el uso de la APP y sus Servicios, así como el correcto funcionamiento de sus módulos e integraciones.
 
 8.2.2. Asegurarse de que la APP o la Plataforma VTEX funcionará libre de pérdidas, errores, defectos, ataques, virus, _trojans_, _malwares_, _worm_, _bot_, _backdoors_, _spywares_, _rootkit_, interferencias, actividades de piratería o violaciones de seguridad, y el Usuario renuncia expresamente cualquier derecho que pueda tener al respecto.
 
@@ -172,7 +174,7 @@ l.  Utilice la APP solo para el propósito expresamente previsto en estos Térmi
 
 ### 10. PROPIEDAD INTELECTUAL
 
-10.1. La propiedad y los derechos de propiedad sobre la APP y los Servicios disponibles en la misma son y seguirán siendo el título y la propiedad del Desarrollador y el Proveedor de la Aplicación, y según los Términos de Uso de la APP, y solo se autoriza el uso de la APP y los Servicios por parte del Usuario. El Usuario no puede modificar ni eliminar ninguna identificación de marca, ni su nombre comercial, de los lugares donde aparece en la APP o en la Plataforma VTEX. Ninguna disposición contenida en este documento podrá otorgar, o se considerará habiendo otorgado, al Usuario ningún derecho sobre la marca VTEX y su denominación comercial.
+10.1. La propiedad y los derechos de propiedad sobre la APP y los Servicios disponibles en la misma son y seguirán siendo el título y la propiedad del Desarrollador y el Proveedor de la Aplicación, y según los Términos de Uso de la APP, y solo se autoriza el uso de la APP y los Servicios por parte del Usuario. O Usuário não pode modificar ou remover qualquer identificativo 10.2. El Usuario no puede modificar ni eliminar ninguna identificación de marca, ni su nombre comercial, de los lugares donde aparece en la APP o en la Plataforma VTEX. Ninguna disposición contenida en este documento podrá otorgar, o se considerará habiendo otorgado, al Usuario ningún derecho sobre la marca VTEX y su denominación comercial.
 
 10.3. El Usuario no puede impugnar, asesorar o cooperar con terceros para impugnar la marca comercial o el nombre comercial de VTEX o su registro, ni el Usuario puede buscar registrar ninguna marca comercial o nombre comercial que pueda causar confusión con la marca comercial o nombre comercial de VTEX.
 
