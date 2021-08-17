@@ -1,8 +1,8 @@
 ### VTEX App Store Terms and Conditions of Use
 
-#### Updated on September 9, 2020
+##### Updated on September 9, 2020
 
-These VTEX App Store Terms and Conditions of Use regulate the use of the subscription and distribution service for applications developed on VTEX IO, offered by COMPANHIA BRASILEIRA DE TECNOLOGIA PARA E-COMMERCE S.A., with headquarters in the city of São Paulo, State of São Paulo, at Avenida Faria Lima, 4440, 10th floor, Itaim Bibi, CEP 04538-132, enrolled with the CNPJ/ME under No. 05.314.972/0001-74, hereinafter referred to as “VTEX”, to its clients (“VTEX Clients”), and their use is conditioned to the full acceptance of the terms and conditions of use transcribed below, as well as of the respective Master Services Agreement (“MSA”) executed by and between VTEX and VTEX Client.
+These VTEX App Store Terms and Conditions of Use regulate the use of the subscription and distribution service for applications developed on VTEX IO, offered by COMPANHIA BRASILEIRA DE TECNOLOGIA PARA E-COMMERCE S.A., with headquarters in the city of São Paulo, State of São Paulo, at Avenida Faria Lima, 4440, 10th floor, Itaim Bibi, CEP 04538-132, enrolled with the CNPJ/ME under No. 05.314.972/0001-74, hereinafter referred to as “VTEX”, to its clients (“VTEX Clients”), and their use is conditioned to the full acceptance of the terms and conditions of use transcribed below, as well as of the respective Master Services Agreement (“MSA”) executed by and between VTEX and VTEX Client. com sede na cidade de São Paulo, Estado de São Paulo, na Avenida Faria Lima, nº 4440, 10º andar, Itaim Bibi, CEP 04538-132, inscrita no CNPJ/MF sob o n. 05.314.972/0001-74, doravante denominada “VTEX”, aos seus clientes (“Clientes VTEX”), e seu uso está condicionado à integral aceitação dos termos e condições de uso transcritos abaixo, bem como do respectivo Master Services Agreement (“MSA”) firmado entre a VTEX e o Cliente VTEX.
 
 In order to access, use or install any APP made available on VTEX App Store, User (as defined hereinbelow) expressly declares, by their free and spontaneous will, that they are aware of and accept all provisions contained in these Terms.
 
@@ -56,7 +56,7 @@ Master Services Agreement” means the Agreement executed by and between Client,
 
 2.2. VTEX Platform makes available [VTEX APP Store](apps.vtex.com), on which several APPs that may be installed and accessed by Users are available. Any User wishing to install and access any APP must create a duly registered VTEX account, by making available their Personal Data and/or data of the legal entities that User represents for registration purposes.
 
-2.3. User declares, under the penalties of law, to be aware on the contracting of the Services, as well as all information provided to the APP is true, being fully and exclusively liable for any and all information supplied, as well as for all APP contracting it carries out on the VTEX Platform in their name, or in the name of any company they represent. VTEX shall not be liable for any damage caused by a unauthorized User.
+2.3.O Usuário declara, sob as penas da lei, estar ciente sobre a contratação dos Serviços, bem como que todas as informações por ele cadastradas no APP são verdadeiras, responsabilizando-se integral e exclusivamente por toda e qualquer informação fornecida, bem como por todas as contratações de APP que efetuar na Plataforma VTEX em seu nome, ou no nome de qualquer empresa que represente. A VTEX não será responsável por qualquer prejuízo causado por um Usuário não autorizado.
 
 2.4. User acknowledges, moreover, that these Terms shall be observed and faithfully complied with under penalty of cancellation, blocking of use of VTEX App Store and APPs and other applicable measures, regardless of previous notice. VTEX reserves the right to take all measures set forth herein even in cases of suspicion or threat of violation of the Terms.
 
@@ -64,13 +64,15 @@ Master Services Agreement” means the Agreement executed by and between Client,
 
 ### 3. PERSONAL DATA PROTECTION
 
-**User declares that they have read the Terms of Use of the APP that they wish to access, use or install and has ensured that the developer and Application Provider of the APP chosen by the User follows the rules of Personal Data Protection. VTEX is not responsible for Third Party Applications.**
+User declares that they have read the Terms of Use of the APP that they wish to access, use or install and has ensured that the developer and Application Provider of the APP chosen by the User follows the rules of Personal Data Protection. VTEX is not responsible for Third Party Applications.
 
 3.1. VTEX shall perform the Processing of Personal Data as made available on VTEX App Store in accordance with the applicable Data Protection Laws. All VTEX collaborators and employees with access to Personal Data are deemed to be bound in writing to keep the confidentiality of such Personal Data.
 
+
+
 3.2. User declares that they have read, are aware of and accepts the provisions of VTEX Privacy Policy, which is an integral part of these Terms, as set forth in full in the following link: [https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy](https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy).
 
-3.3 User agrees that the routines of access to the APP may be recorded and monitored by VTEX development team and that all information and data supplied may be used exclusively with the purpose of providing performance improvements, functionality adjustments and corrections and improvement of the system as a whole. Such information shall not be shared or made available to any person or company other than the VTEX group, such as, without limitation, partners, service providers, agencies, consultants or other Users.
+2.3. User declares, under the penalties of law, to be aware on the contracting of the Services, as well as all information provided to the APP is true, being fully and exclusively liable for any and all information supplied, as well as for all APP contracting it carries out on the VTEX Platform in their name, or in the name of any company they represent. VTEX shall not be liable for any damage caused by a unauthorized User.
 
 3.4. User agrees that, when applicable, the APP will be considered as a Data Operator, making available infrastructure only. Under no circumstances shall the APP made available by VTEX be considered as the Controller of Personal Data for purposes of the Personal Data Protection Laws. The provisions of the MSA shall apply.
 
@@ -136,7 +138,7 @@ l.  Use the APP solely for the purpose expressly provided in these Terms.
 
 8.2. By way of example only, VTEX shall not be liable for:
 
-8.2.1. Errors and/or interruptions in the use of the APP and its Services, as well as the correct functioning of its modules and integrations.
+8.2.1.  Errors and/or interruptions in the use of the APP and its Services, as well as the correct functioning of its modules and integrations.
 
 8.2.2. Assuring that the APP or VTEX Platform will function free of losses, errors, defects, attacks, viruses, Trojans, malwares, worm, bot, backdoors, spywares, rootkit, interferences, hacker activities or security holes, and User expressly waives any right they may have in this regard.
 
@@ -172,7 +174,7 @@ l.  Use the APP solely for the purpose expressly provided in these Terms.
 
 ### 10. INTELLECTUAL PROPERTY
 
-10.1. The title and the rights of ownership on the APP and Services available therein are and shall remain the title and ownership of Developer and Application Provider, it being authorized the use of the APP and of the Services only by User, pursuant to the APP Terms of Use. User shall not modify or remove any identification of VTEX trademark or commercial name from the places where they appear on the APP or VTEX Platform. Nothing contained herein shall be understood as granting or having granted to User any right on VTEX trademark and its commercial name.
+10.1. The title and the rights of ownership on the APP and Services available therein are and shall remain the title and ownership of Developer and Application Provider, it being authorized the use of the APP and of the Services only by User, pursuant to the APP Terms of Use. O Usuário não pode modificar ou remover qualquer identificativo 10.2. User shall not modify or remove any identification of VTEX trademark or commercial name from the places where they appear on the APP or VTEX Platform. Nothing contained herein shall be understood as granting or having granted to User any right on VTEX trademark and its commercial name.
 
 10.2. User shall not contest or assist or cooperate with third parties to contest the trademark or commercial name of VTEX or their registration, nor shall they seek to register any trademark or commercial name that could cause confusion with the trademark or commercial name of VTEX.
 
