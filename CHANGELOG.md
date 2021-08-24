@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 ### Fixed
-- Fix crowdin.yml file
+- Crowdin configuration file
 
 ## [2.0.6] - 2020-11-10
 
