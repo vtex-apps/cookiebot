@@ -1,9 +1,7 @@
 files:
   - source: /messages/en.json
     translation: /messages/%two_letters_code%.json
-  - source: '/public/metadata/messages/en-US.json'
-    translation: '/public/metadata/messages/%locale%.json'
-    type: 'json'
-  - source: '/public/metadata/licenses/en-US.md'
-    translation: '/public/metadata/licenses/%locale%.md'
-    type: 'md'
+  - source: /public/metadata/messages/en-US.json
+    translation: /public/metadata/messages/%locale%.json
+  - source: /public/metadata/licenses/en-US.md
+    translation: /public/metadata/licenses/%locale%.md
