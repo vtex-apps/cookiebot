@@ -1,7 +1,7 @@
 {
   "name": "cookiebot",
-  "vendor": "vtex",
-  "version": "2.0.7",
+  "vendor": "arcaplanetqa",
+  "version": "0.0.0",
   "title": "Cookiebot",
   "description": "With a few clicks configure and preview your own cookie declaration and consent dialog.",
   "billingOptions": {
@@ -31,6 +31,10 @@
     "properties": {
       "cbid": {
         "title": "Domain Group ID",
+        "type": "string"
+      },
+      "gcm": {
+        "title": "Google Consent Mode",
         "type": "string"
       }
     }
