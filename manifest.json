@@ -1,7 +1,7 @@
 {
   "name": "cookiebot",
-  "vendor": "arcaplanetqa",
-  "version": "0.0.1",
+  "vendor": "vtex",
+  "version": "2.0.8",
   "title": "Cookiebot",
   "description": "With a few clicks configure and preview your own cookie declaration and consent dialog.",
   "billingOptions": {
