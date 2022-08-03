@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [2.0.8] - 2022-08-03
+
+### Added
+- Admin setting that allow to disable Google Consent Mode following [Cookiebot indications](https://support.cookiebot.com/hc/en-us/articles/4417367208594-Disabling-Google-Consent-mode) 
+
 ## [2.0.7] - 2021-09-28
 
 ### Fixed
