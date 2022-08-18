@@ -32,6 +32,19 @@
       "cbid": {
         "title": "Domain Group ID",
         "type": "string"
+      },
+      "gcm": {
+        "title": "Google Consent Mode",
+        "type": "string",
+        "default": "enabled",
+        "enum": [
+          "enabled",
+          "disabled"
+        ],
+        "enumNames": [
+          "enabled",
+          "disabled"
+        ]
       }
     }
   },
